@@ -36,23 +36,23 @@ career-profile:
     summary: |
       A cooperative student at the Ionian University with hard working skills and easy-learner. 
       
-    education:
+ education:
       degree: It is on its way.
       university: Ionian University
       time: 2019 - present
       details: |
         
         
-    experiences:
-      title: Experiences
-      summary: |
-         As an undergraduate student i do not have any prior work experience related to the career i want to pursue in the future.
+experiences:
+    title: Experiences
+    summary: |
+        As an undergraduate student i do not have any prior work experience related to the career i want to pursue in the future.
     
-    projects:
-      title: Projects
-      assignments:
-      - title: 2D Rocket Jump
-        tagline: "A funny 2D game for one player with multiple levels."
+projects:
+    title: Projects
+    assignments:
+    - title: 2D Rocket Jump
+      tagline: "A funny 2D game for one player with multiple levels."
 
 skills:
     title: Skills 
