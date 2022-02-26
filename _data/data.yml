@@ -34,20 +34,17 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      A cooperative student at the Ionian University with hard working skills and easy-learner. 
-      
- education:
+      A cooperative student at the Ionian University with hard working skills and easy-learner.  
+education:
       degree: It is on its way.
       university: Ionian University
       time: 2019 - present
       details: |
-        
-        
+        I am a a computer science student at the Ionian University.
 experiences:
     title: Experiences
     summary: |
         As an undergraduate student i do not have any prior work experience related to the career i want to pursue in the future.
-    
 projects:
     title: Projects
     assignments:
