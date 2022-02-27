@@ -44,9 +44,7 @@ education:
         I am a a computer science student at the Ionian University.
 experiences:
     title: Experiences
-    -role:
-    time: 
-    company:
+    time: 2019 - present
     details: |
         As an undergraduate student i do not have any prior work experience related to the career i want to pursue in the future.
 projects:
