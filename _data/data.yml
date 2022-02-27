@@ -14,7 +14,7 @@ sidebar:
     email: p19pasa@gmail.com
     phone: 69xxxxxxxx
     citizenship: Greek
-    website: 
+    website: p19pasa.github.io/online-cv/ #do not add https://
     github: p19pasa
     pdf: http://www.africau.edu/images/default/sample.pdf
     
@@ -37,16 +37,16 @@ career-profile:
     summary: |
       A cooperative student at the Ionian University with hard working skills and easy-learner.  
 education:
-      degree: It is on its way.
-      university: Ionian University
-      time: 2019 - present
-      details: |
-        I am a a computer science student at the Ionian University.
+      - degree: It is on its way.
+        university: Ionian University
+        time: 2019 - present
+        details: |
+          I am a a computer science student at the Ionian University.
 experiences:
-    title: Experiences
-    time: 2019 - present
-    details: |
-        As an undergraduate student i do not have any prior work experience related to the career i want to pursue in the future.
+     - title: Experiences
+       time: 2019 - present
+       details: |
+          As an undergraduate student i do not have any prior work experience related to the career i want to pursue in the future.
 projects:
     title: Projects
     assignments:
